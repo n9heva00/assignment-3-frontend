@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  margin-left: 10px;
+}
+
+.input-amount {
+  width: 40px;
+}
+
+.container {
+  padding-left: 30px;
+}
+
+table {
+  margin-top: 10px;
+}
+
+.delete {
+  color: darkred;
+  margin-left: 90px;
+  text-decoration: none;
+}
+
+.amount {
+  padding-left: 50px;
+}
